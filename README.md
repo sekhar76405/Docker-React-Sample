@@ -1,3 +1,9 @@
+For creating docker image. go to the repository folder and run  "docker build ."
+This will create the docker image.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
